@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Palabrinas</string>
+    <string name="initialWord">-----</string>
+    <string name="initial_lives_text">10</string>
+    <string name="enter_word">Introducir palabra...</string>
+    <string name="button_text">Introducir</string>
+    <string name="restart_text">R</string>
+</resources>
